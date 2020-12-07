@@ -12,7 +12,8 @@ https://blog.csdn.net/qq_30152625/article/details/90404727
 运行的一些过程，可以忽略，具体应该很快就学会了，遇到错误调错百度就好
 
 
-
+Linux常用命令大全（非常全！！！）
+https://www.cnblogs.com/xujingyang/p/7069376.html
 
 
 
