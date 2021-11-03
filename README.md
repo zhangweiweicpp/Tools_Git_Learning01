@@ -1,5 +1,4 @@
-# test4
-第一次上传仓库
+# Tools-Git-Learning
 # 视频最后我所说的遇到的问题解决
 1.git报错：'fatal:remote origin already exists'怎么处理？附上git常用操作以及说明。
 https://www.cnblogs.com/leaf930814/p/6664706.html
